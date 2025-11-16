@@ -1,10 +1,24 @@
-# superstore-sales-dashboard
-Power BI dashboard analyzing 10K+ Superstore sales records with DAX KPIs and interactive visuals
-## Project Overview
-Interactive Power BI dashboard analyzing 10,000+ Superstore sales records to identify revenue growth trends, regional performance gaps, and customer retention strategies. Built with advanced DAX calculations, Power Query ETL, and business intelligence best practices.
+# Superstore Sales Dashboard - Power BI Mock Project
 
-Key Features:
-- 3-page interactive report with cross-filtering
-- 6 DAX measures including YoY growth and profit margin analysis
-- Customer segmentation (Active/At-Risk/Churned)
-- Executive summary with $127K cost-saving recommendations
+## Project Overview
+Interactive Power BI dashboard analyzing 10,000+ sales records.
+
+**Duration**: 10 hours | **Tools**: Power BI, DAX, Power Query
+
+## Key Insights
+- West region underperforms by 12% margin → $127K savings opportunity
+- Q4 retention dropped 8% → shipping delay correlation
+- Top 5% customers = 42% profit → Platinum program recommended
+
+## Files
+- `Superstore_Dashboard.pbix` - Interactive dashboard file
+- `Executive_Summary.pdf` - Business insights & recommendations
+- `Screenshots/` - Dashboard visuals
+
+## How to View
+1. Install Power BI Desktop (free)
+2. Download the .pbix file
+3. Double-click to open and interact
+
+---
+*Self-initiated portfolio project*
